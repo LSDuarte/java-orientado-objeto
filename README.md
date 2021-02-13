@@ -165,11 +165,11 @@
 - Introdução ao Lambda 17m 46s
 - Referência a métodos 5m 46s
 - Interfaces funcionais 12m 58s
-- Introdução a Stream 12m 17s
-- API de Data - Parte 113m 13s
-- API de Data - Parte 25m 39s
-- API de Data - Parte 312m 16s
-- API de Data - Parte 410m 17s
+- Introdução a Stream 1 2m 17s
+- API de Data - Parte 1 13m 13s
+- API de Data - Parte 2 5m 39s
+- API de Data - Parte 3 12m 16s
+- API de Data - Parte 4 10m 17s
 - Próximos passos 6m 31s
 - Conclusão 2m 5s
 
